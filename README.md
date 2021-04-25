@@ -4,3 +4,7 @@
 - The quiz will be administered by Cobb County to rising juniors and seniors.
 - The quiz will consit of 10 questions. 
 - Students will receive their grade at the end of the quiz.
+
+# Code File
+- I added this section to showcase I committed a change to my Read Me file in Github.
+- This is my second code change to my Code File for Question 3 on Project Sprint 2 Review and Log
