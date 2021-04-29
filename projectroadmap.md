@@ -12,7 +12,7 @@
 - [x] I have include comments that explain what I have done to my work.
 
 # Sprint 3:
--[x] Create an Marketing image for your Project
--[x] Move the Marketing image on to Microsoft PowerPoint
--[x] Upload the Marketing image and Microsoft PowerPoint to D2L
--[x] Upload the Marketing image to GitHub under the ReadME.md File
+- [x] Create an Marketing image for your Project
+- [x] Move the Marketing image on to Microsoft PowerPoint
+- [x] Upload the Marketing image and Microsoft PowerPoint to D2L
+- [x] Upload the Marketing image to GitHub under the ReadME.md File
