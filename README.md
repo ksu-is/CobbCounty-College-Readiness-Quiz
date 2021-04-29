@@ -8,3 +8,6 @@
 # Code File
 - I added this section to showcase I committed a change to my Read Me file in Github.
 - This is my second code change to my Code File for Question 3 on Project Sprint 2 Review and Log
+
+# PPT Splash Screen Marketing Image
+![CODEPPT](https://user-images.githubusercontent.com/77643981/116615534-6fc65200-a909-11eb-91bd-867bb0b3746d.png)
