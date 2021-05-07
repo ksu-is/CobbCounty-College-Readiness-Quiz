@@ -87,7 +87,7 @@ def first_run_quiz():
                 if len(each_intem) > 1:
                     name_list.append(each_intem.strip())
                     
-        with open ('thefinishedquizes.txt' ,'r') as read_finished_handle:
+        with open ('thefinishedquiz.txt' ,'r') as read_finished_handle:
             for each_other_item in read_finished_handle:
                 if len(each_intem) > 1:
                     name_list.append(each_other_item.strip())
@@ -170,7 +170,7 @@ def first_run_quiz():
                 
                 def write_final_result(their_name, their_score):
                 
-                    the_final_place = open('thefinishedquizes.txt' , 'a')
+                    the_final_place = open('thefinishedquiz.txt' , 'a')
                     their_name = given_name
                     their_score = score
                     
