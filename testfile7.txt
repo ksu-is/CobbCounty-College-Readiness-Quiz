@@ -1,6 +1,0 @@
-pickup
-Jim
-a
-b
-b
-c
