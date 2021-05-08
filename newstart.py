@@ -3,7 +3,7 @@ import time
 print("Welcome to the Cobb County Readiness Quiz\nYou can test your knowledge to see whether or not you are ready for college")
 time.sleep(2)
 
-print("The quiz will consit of 10 multiple choice questions.\nThe quiz will keep track of your score while taking it and at the end you will recieve your final grade")
+print("The quiz will consit of 10 multiple choice questions.\nThe quiz will keep track of your score and at the end you will recieve your final grade")
 time.sleep(2)
 
 print("Select a/b/c/d or enter the answer, to answer each question.")
@@ -23,7 +23,7 @@ def correct_answer():
   
 # Question 1
 print("Q1. (BLANK)is the applied science of energy and matter?")
-answer = input("a. Psychology \nb. Engineering \nc. Management \nd. Medicine").lower()
+answer = input("a. Psychology \nb. Engineering \nc. Management \nd. Medicine ").lower()
 q_attempted += 1
 if answer == "b" or answer == "engineering":
   correct_answer()
@@ -129,4 +129,4 @@ if answer == "a" or answer == "task environment":
 else:
    print("Sorry, that was not the correct answer.")
 
-print("Cobb County College Readiness Quiz ia over. Your score is " + str(score) + "/" + str(q_attempted) + ".")
+print("The Cobb County College Readiness Quiz is over. Your score is " + str(score) + "/" + str(q_attempted) + ".")
