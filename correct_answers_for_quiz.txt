@@ -1,10 +1,10 @@
-b;Engineering
-d;Psychology
-b;Anthropology
-d;Reactive Behavior
-c;Organizational Context
-d;Consumers
-b;Misson or Purpose
-a;Technology
-c;External Task Environment
-a;Task Environment
+Engineering
+Psychology
+Anthropology
+Reactive Behavior
+Organizational Context
+Consumers
+Misson or Purpose
+Technology
+External Task Environment
+Task Environment
