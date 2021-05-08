@@ -82,7 +82,7 @@ def first_run_quiz():
     
         name_list = []
 
-        with open ('thecurrent.txt', 'r') as pasued_file_handle:
+        with open ('thecurrentfile.txt', 'r') as pasued_file_handle:
             for each_intem in pasued_file_handle:
                 if len(each_intem) > 1:
                     name_list.append(each_intem.strip())
@@ -140,7 +140,7 @@ def first_run_quiz():
                     
                     def make_the_pause(their_name, theirquest_number, their_score):
     
-                        the_current_place = open('thecurrent.txt', 'a')
+                        the_current_place = open('thecurrentfile.txt', 'a')
                         their_name = given_name
                         theirquest_number = questions_number
                         their_score = score
