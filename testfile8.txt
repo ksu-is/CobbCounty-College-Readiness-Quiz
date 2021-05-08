@@ -1,7 +1,0 @@
-start 
-Sarah
-a
-b
-d
-f
-pause
