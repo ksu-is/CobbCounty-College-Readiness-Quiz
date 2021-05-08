@@ -130,3 +130,25 @@ else:
    print("Sorry, that was not the correct answer.")
 
 print("The Cobb County College Readiness Quiz is over. Your score is " + str(score) + "/" + str(q_attempted) + ".")
+
+# Final Message
+if score <= 1:
+  print("Based off your score of " + str(score) + "/" + str(q_attempted) + "your not ready for College.")
+elif score == 2:
+  print("Based off your score of " + str(score) + "/" + str(q_attempted) + "your not ready for College.")
+elif score == 3:
+  print("Based off your score of " + str(score) + "/" + str(q_attempted) + "your not ready for College.")
+elif score == 4:
+  print("Based off your score of " + str(score) + "/" + str(q_attempted) + "your not ready for College.")
+elif score == 5:
+  print("Based off your score of " + str(score) + "/" + str(q_attempted) + "your not ready for College.")
+elif score == 6:
+ print("Based off your score of " + str(score) + "/" + str(q_attempted) + "your ready for College but you need more practice.")
+elif score == 7:
+ print("Based off your score of " + str(score) + "/" + str(q_attempted) + "your ready for College but you need more practice.")
+elif score >= 8:
+  print("Based off your score of " + str(score) + "/" + str(q_attempted) + "your ready for College but you need more practice.")
+elif score >= 9:
+  print("Based off your score of " + str(score) + "/" + str(q_attempted) + "your ready for College but you need more practice.")
+else:
+  print("Based off your score of " + str(score) + "/" + str(q_attempted) + "your ready for College!!!Congratulations!")
