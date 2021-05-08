@@ -1,7 +1,0 @@
-pickup
-Peter
-a
-c
-b
-c
-pause
